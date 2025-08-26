@@ -1,4 +1,13 @@
 # Build A Home Cyber Lab 
+Built a personal cybersecurity lab environment to simulate attacker/defender scenarios using Kali Linux and Windows 10 virtual machines.
+
+Performed network scanning and enumeration with Nmap to identify open ports and services.
+
+Used Wireshark to capture and analyze traffic between virtual machines, applying filters to detect anomalies.
+
+Practiced basic penetration testing techniques and documented findings in a structured lab report.
+
+Gained foundational hands-on skills in virtualization, secure configuration, and network traffic analysis.
 
 # Downloaded VM VirtualBox and also Kail Linux 
 ![Image](https://github.com/user-attachments/assets/8ca529f0-1e27-451d-9459-2fb75e9a36ea)
